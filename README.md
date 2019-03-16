@@ -1,4 +1,4 @@
-#Paint App
+Paint App
 
 	Snake And Ladders game made using graphics.py library of pyhton
 
