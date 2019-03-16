@@ -1,6 +1,6 @@
 Paint App
 
-	Snake And Ladders game made using graphics.py library of pyhton
+	Paint app made using pygame.py library of pyhton
 
 Requirements:-
 
